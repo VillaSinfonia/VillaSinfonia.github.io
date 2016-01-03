@@ -1,0 +1,18 @@
+name:                VillaSite
+version:             0.1.0.0
+synopsis:            Website for the Villa Sinfonia Foundation
+description:         Please see README.md
+author:              Narain Darakananda
+maintainer:          naraindarakananda@gmail.com
+category:            Web
+build-type:          Simple
+cabal-version:       >=1.10
+
+executable VillaSite
+  main-is:             site.hs
+  default-language:    Haskell2010
+  ghc-options:         -threaded
+  build-depends:       base == 4.*,
+                       hakyll == 4.7.*,
+                       filepath == 1.4.*,
+                       monadlist == 0.0.2
