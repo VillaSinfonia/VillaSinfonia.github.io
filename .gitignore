@@ -1,5 +1,6 @@
 # Created by https://www.gitignore.io/api/haskell
 .DS_Store
+upload
 ### Haskell ###
 dist
 cabal-dev
