@@ -6,7 +6,7 @@ order: 306
 # Zephyr Camp
 
 
-<img style="float: right; margin-left: 20px; margin-top: 10px;  margin-bottom: 5px;" width="400px" src="/images/Quartet.jpg"/>
+<img style="float: right; margin-left: 20px; margin-top: 10px;  margin-bottom: 5px;" width="500px" src="/images/Quartet.jpg"/>
 Located on the beautiful shores of South Lake Tahoe at the Zephyr Point Presbyterian Retreat Center, this popular music camp occupies two memorable weeks in July. The first session/week is designed for advanced players, consisting of intensive chamber music sight-reading, rehearsals and performances. The second session/week is aimed at all skill levels, from the preparatory students on up, but contains the same opportunities for sight-reading and performances as the first week. Students are assigned groups with professional coaches designed to encourage and challenge their skills while given a crash course in how to perform new music in as little as two days.
 
 

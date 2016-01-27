@@ -9,9 +9,10 @@ div#events table {
 }
 </style>
 
-## Upcoming Events<img style="float: right; margin-right: 40px; margin-left: 20px; margin-bottom: 10px; " width="400px" src="/images/caroling.jpg"></img>
+## Upcoming Events<img style="float: right; margin-right: 40px; margin-left: 20px; margin-bottom: 10px; " width="500px" src="/images/anthem.jpg"></img>
 
-1. April 24, 2016 Spring Concert
+1. January 30, Faculty Concert at Broadmoor
+2. April 24, 2016 Spring Concert
 2. May 21, 2016 Small Group Concert
 
 <div id = "events">

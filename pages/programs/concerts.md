@@ -5,7 +5,7 @@ order: 305
 
 # Concerts
 
-1. The Family Ensemble Concert in October is a big favorite, featuring student musicians as well as other family members who have either dusted off their musical instruments to join in the music making or who are professional musicians delighting in playing along with their offspring. This concert takes place at Ecole Notre Dame des Victoires, 649 Pine Street, San Francisco.<img style="float: right; padding-top: 30px; margin-right: 40px; margin-left: 20px; margin-top: 20px;" width="350px" src="/images/cello.jpg"></img>
+1. The Family Ensemble Concert in October is a big favorite, featuring student musicians as well as other family members who have either dusted off their musical instruments to join in the music making or who are professional musicians delighting in playing along with their offspring. This concert takes place at Ecole Notre Dame des Victoires, 649 Pine Street, San Francisco.<img style="float: right; padding-top: 30px; margin-right: 40px; margin-left: 20px; margin-top: 20px;" width="450px" src="/images/spring_concert.jpg"></img>
 
 1. The Holiday Concert in December and the Spring Concert are the delightful concerts featuring the combined forces of the Villa Chamber Orchestra, Villa Sinfonia, and the Preparatory Division. These concerts are at Ecole Notre Dame des Victoires, 649 Pine Street, San Francisco. The Orchestras also perform a second concert in May at Notre Dame des Victoires.
 

@@ -1,13 +1,13 @@
 @import url(https://fonts.googleapis.com/css?family=Sorts+Mill+Goudy|Marcellus+SC);
 
 a {
-    color: #cccccc;
+    color: #161616;
 }
 
 body {
     font-family: 'Sorts Mill Goudy', serif;
-    background-color: #161616;
-    color: #cccccc;
+    background-color: #cccccc;
+    color: #161616;
     font-size: 15pt;
     line-height: 1.5em;
     margin: 0px auto 0px auto;
@@ -45,6 +45,7 @@ ul#menu {
 ul#menu > li {
     width: 150px;
     display: table-cell;
+    font-family: 'Avenir Next', serif;
     padding-bottom: 8px;
 }
 
@@ -59,18 +60,12 @@ ul#menu > li a {
 
 ul.submenu {
     visibility: hidden;
-    z-index: 1000;
-    opacity: 0;
     position: absolute;
     display: block;
     list-style-type: none;
     padding-top: 10px;
     padding-left: 0;
-    background: #161616; /* For browsers that do not support gradients */
-    background:     -webkit-linear-gradient(left, rgba(22,22,22,1), rgba(22,22,22,0.5));
-    background:      -o-linear-gradient(right,    rgba(22,22,22,1), rgba(22,22,22,0.5));
-    background:    -moz-linear-gradient(right,    rgba(22,22,22,1), rgba(22,22,22,0.5));
-    background:      linear-gradient(to right,    rgba(22,22,22,1), rgba(22,22,22,0.5));
+    background: #cccccc; /* For browsers that do not support gradients */
 	-webkit-transition: all .3s linear;
 	-moz-transition: all .3s linear;
 	-ms-transition: all .3s linear;
@@ -82,9 +77,9 @@ ul.submenu li {
     display: block;
     text-align: left;
     height: 30px;
-    padding-left: 40px;
+    padding-left: 5px;
     padding-right: 20px;
-    border-left: solid 8px #161616;
+    border-left: solid 8px #cccccc;
 }
 
 ul.submenu li:hover {
@@ -118,7 +113,7 @@ h1 {
 }
 
 p {
-    text-align: justify;
+    text-align: left;
     margin-left: 30pt;
     margin-right: 30pt;
 }

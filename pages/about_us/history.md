@@ -4,7 +4,7 @@ order: 105
 ---
 # History
 
-The Villa Sinfonia Foundation had its beginnings in 1975 when Lynn and Roy Oakley started the Oakley Violin Studio,a private violin studio. Since that time, the private studio has expanded to include other private studios in a 501 ©3 non-profit organization called the Villa Sinfonia Foundation. The Villa Sinfonia Foundation is dedicated to developing string musicians of all ages and abilities, through the performance of chamber music and chamber orchestra music, assisted and coached by professional musicians.<img style="float: right; padding-top: 20px; margin-left: 20px;" width="350px" src="/images/oakleys.jpg"></img>
+The Villa Sinfonia Foundation had its beginnings in 1975 when Lynn and Roy Oakley started the Oakley Violin Studio,a private violin studio. Since that time, the private studio has expanded to include other private studios in a 501 ©3 non-profit organization called the Villa Sinfonia Foundation. The Villa Sinfonia Foundation is dedicated to developing string musicians of all ages and abilities, through the performance of chamber music and chamber orchestra music, assisted and coached by professional musicians.<img style="float: right; padding-top: 20px; margin-left: 20px;" width="400px" src="/images/oakleys.jpg"></img>
 
 
 Villa Sinfonia Foundation has a Collective Bargaining Agreement with the Musicians Union Local No. 6, American Federation of Musicians, and is a member of ASCAP and BMI, and as such, ASCAP and BMI licenses cover all Villa Sinfonia Foundation sponsored performances.

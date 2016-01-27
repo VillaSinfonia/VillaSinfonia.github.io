@@ -6,7 +6,7 @@ order: 301
 div.viola {
     position: relative;
     left: -200px;
-    top: -120px;
+    top: -200px;
     float: right;
 }
 </style>
@@ -15,7 +15,7 @@ div.viola {
 
  Teachers in the Villa Sinfonia Foundation offer 1-2 lessons per week based on the availability of the teacher and the students needs. The fee for these lessons is determined by the individual teacher. Please call The Villa Sinfonia Foundation at (415) 661-3782.
 
-<img style="float: right; padding-top: 30px; margin-right: 10px; margin-left: 20px;" width="450px" src="/images/private_lesson.jpg"></img>
+<img style="float: right; padding-top: 30px; margin-right: 10px; margin-left: 20px;" width="450px" src="/images/bowing.jpg"></img>
 
 ## List of teachers:
 

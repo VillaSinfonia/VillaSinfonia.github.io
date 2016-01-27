@@ -20,7 +20,7 @@ The suggested donation per ticket is $25, for a cash prize of $1000. Only 200 ti
 
 ## VSF Fundraising Concert with wine and hors d’oeuvres
 
-At the home of Rick and Randa Dudum on Saturday, October 1, 6:30 pm-9:00 pm featuring the Alexander String Quartet.
+<img style="float: right; padding-top: 20px; margin-left: 20px;" width="400px" src="/images/Stuart.jpg"></img> At the home of Rick and Randa Dudum on Saturday, October 1, 6:30 pm-9:00 pm featuring the Alexander String Quartet.
 
 $150 per person or $250 per couple
 
