@@ -16,6 +16,7 @@ Chief Financial Officer & Musical Director:   Roy Oakley
 
 ## BOARD MEMBERS
 
+- Lindsey Criswell
 - Qing Darakananda
 - David Dobrinen
 - Jared Doumani

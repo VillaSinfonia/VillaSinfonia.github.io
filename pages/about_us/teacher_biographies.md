@@ -55,10 +55,18 @@ David Wishnia has been involved with the Villa Sinfonia Foundation for over fift
 # Affiliated Teachers
 
 - Wynne Bamberg
+- Narain Darakananda
 - Qing Darakananda
+- David Dobrinen
 - Gretchen Elliott
 - Susannah French
+- Patrick Galvin
 - Jonathan Haddox
 - Patrick Kroboth
+- Ilana Matfis
+- Victoria Perenyi
 - Suzanne Schwind
-- Narain Darakananda
+- Adrienne Sengpiehl
+- Sergei Riabtchenko
+- Jody Richardson
+- Gordon Thrupp
