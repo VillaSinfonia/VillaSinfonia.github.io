@@ -27,8 +27,7 @@ Villa Chamber Orchestra Concert                 March 5, 2016
 Spring Concert                                  April 24, 2016
 Small Group Concert                             May 21, 2016
 Start of Zephyr Chamber Music Camp              June 26, 2016
-Union Square Concert                            TBD
-National Anthem at the Giant's Game             TBD
+National Anthem at the Giant's Game             July 26 1016
 Orientation Meeting                             August 21, 2016
 ---------------------------------------------   -----------------
 </div>

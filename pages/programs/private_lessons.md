@@ -24,8 +24,10 @@ div.viola {
 ----------------------------------- ---------------
 Omid Assadi                         Peninsula
 Wynne Bamberg                       San Francisco
+Narain Darakananda                  San Francisco
 Qing Darakananda                    San Francisco
-Nancy Ewing-Wood                    East Bay
+Nancy Ewing                         East Bay
+Patrick Galvin                      San Francisco
 Ilana Matfis                        East Bay
 Patrice May                         East Bay
 Lynn Oakley                         San Francisco
@@ -35,6 +37,7 @@ David Ryther                        East Bay
 Daryl Schilling                     San Francisco
 Suzanne Schwind                     San Francisco
 Julie Smolin                        San Francisco
+Rebecca Wishnia                     San Francisco
 ----------------------------------- ---------------
 
 <div class = "viola">

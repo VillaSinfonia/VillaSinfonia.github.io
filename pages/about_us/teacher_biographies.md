@@ -70,3 +70,4 @@ David Wishnia has been involved with the Villa Sinfonia Foundation for over fift
 - Sergei Riabtchenko
 - Jody Richardson
 - Gordon Thrupp
+- Rebecca Wishnia
