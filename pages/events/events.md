@@ -13,6 +13,7 @@ div#events table {
 
 1. January 30, Faculty Concert at Broadmoor
 2. April 24, 2016 Spring Concert
+2. March 5 Villa Chamber Orchestra Concert
 2. May 21, 2016 Small Group Concert
 
 <div id = "events">
