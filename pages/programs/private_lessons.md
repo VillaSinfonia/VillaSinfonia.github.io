@@ -46,7 +46,7 @@ Rebecca Wishnia                     San Francisco
 ----------------------------------- ---------------
 Omid Assadi                         East Bay
 David Dobrinen                      San Francisco
-Nancy Ewing-Wood                    East Bay
+Nancy Ewing                         East Bay
 Patrick Kroboth                     San Francisco
 Ilana Matfis                        East Bay
 Lynn Oakley                         San Francisco
