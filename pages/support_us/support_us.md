@@ -21,7 +21,7 @@ order: 600
   }
 </style>
 
-<img style="float: right; margin-right: 20px; margin-left: 20px; margin-bottom: 10px; " width="400px" src="/images/cute_kids.jpg"/>We are extremely grateful for the donations of money and support that we have received from individuals, corporations, small businesses and other organizations. The Villa Sinfonia Foundation uses these donations for need-based scholarships for lessons and group classes, Zephyr Music Camp tuition, and tour participation as well as for hiring professional staff in accordance with our mission statement:
+<img style="float: right; margin-right: 20px; margin-left: 20px; margin-bottom: 10px; " width="400px" src="/images/children.jpg"/>We are extremely grateful for the donations of money and support that we have received from individuals, corporations, small businesses and other organizations. The Villa Sinfonia Foundation uses these donations for need-based scholarships for lessons and group classes, Zephyr Music Camp tuition, and tour participation as well as for hiring professional staff in accordance with our mission statement:
 
 
 The Villa Sinfonia Foundation is dedicated to developing string musicians of all ages and abilities, through the performance of chamber music and chamber orchestra music, assisted and coached by professional musicians.
