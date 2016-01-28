@@ -222,7 +222,7 @@ NOTE: use percentage font sizes or else old IE chokes
 	background-image: linear-gradient(to bottom, #ffffff, #e6e6e6);
 	background-repeat: repeat-x;
 	border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
-	color: #cccccc;
+	color: #161616;
 }
 
 .fc-state-hover,
@@ -245,7 +245,7 @@ NOTE: use percentage font sizes or else old IE chokes
 
 .fc-state-down,
 .fc-state-active {
-	background-color: #cccccc;
+	background-color: #161616;
 	background-image: none;
 	box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15), 0 1px 2px rgba(0, 0, 0, 0.05);
 }
