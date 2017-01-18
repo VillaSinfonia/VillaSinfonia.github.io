@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <title>Villa Sinfonia Foundation- Home</title>
+        <link rel="stylesheet" type="text/css" href="./css/default.css" />
+    </head>
+    <body>
+        <div id="header">
+            <div id="logo">
+              <a href="./index.html"><img height="150px" src="./images/logo.svg" /></a>
+            </div>
+            <div id="navigation">
+        <ul id="menu">
+            
+            <li><a href="./pages/about_us/about_us.html">About Us</a>
+                <ul class="submenu">
+                    <li><a href="./pages/about_us/teacher_biographies.html">Teacher Biographies</a></li>
+                    
+                    <li><a href="./pages/about_us/associated_artists.html">Associated Artists</a></li>
+                    
+                    <li><a href="./pages/about_us/board_of_trustees.html">Board Of Trustees</a></li>
+                    
+                    <li><a href="./pages/about_us/history.html">History</a></li>
+                    
+                    <li><a href="./pages/about_us/villa_in_the_news.html">Villa In The News</a></li>
+                     
+                </ul>
+            </li>
+            
+            <li><a href="./pages/events/events.html">Events</a>
+                <ul class="submenu"> 
+                </ul>
+            </li>
+            
+            <li><a href="./pages/programs/programs.html">Programs</a>
+                <ul class="submenu">
+                    <li><a href="./pages/programs/private_lessons.html">Private Lessons</a></li>
+                    
+                    <li><a href="./pages/programs/orchestra.html">Orchestra</a></li>
+                    
+                    <li><a href="./pages/programs/group_classes.html">Group Classes</a></li>
+                    
+                    <li><a href="./pages/programs/teacher_training.html">Teacher Training</a></li>
+                    
+                    <li><a href="./pages/programs/concerts.html">Concerts</a></li>
+                    
+                    <li><a href="./pages/programs/zephyr_camp.html">Zephyr Camp</a></li>
+                    
+                    <li><a href="./pages/programs/tours.html">Tours</a></li>
+                    
+                    <li><a href="./pages/programs/community_outreach.html">Community Outreach</a></li>
+                     
+                </ul>
+            </li>
+            
+            <li><a href="./pages/calendar/calendar.html">Calendar</a>
+                <ul class="submenu"> 
+                </ul>
+            </li>
+            
+            <li><a href="./pages/gallery/gallery.html">Gallery</a>
+                <ul class="submenu">
+                    <li><a href="./pages/gallery/carnegie_tour_2015.html">Carnegie Tour 2015</a></li>
+                    
+                    <li><a href="./pages/gallery/france_tour_2014.html">France Tour 2014</a></li>
+                    
+                    <li><a href="./pages/gallery/zephyr_camp.html">Zephyr Camp</a></li>
+                    
+                    <li><a href="./pages/gallery/union_square_concert.html">Union Square Concert</a></li>
+                    
+                    <li><a href="./pages/gallery/national_anthem.html">National Anthem</a></li>
+                    
+                    <li><a href="./pages/gallery/holiday_concert.html">Holiday Concert</a></li>
+                    
+                    <li><a href="./pages/gallery/senior_solos.html">Senior Solos</a></li>
+                    
+                    <li><a href="./pages/gallery/family_concert.html">Family Concert</a></li>
+                     
+                </ul>
+            </li>
+            
+            <li><a href="./pages/support_us/support_us.html">Support Us</a>
+                <ul class="submenu">
+                    <li><a href="./pages/support_us/online.html">Online</a></li>
+                    
+                    <li><a href="./pages/support_us/fundraising_events.html">Fundraising Events</a></li>
+                    
+                    <li><a href="./pages/support_us/purchase_ads.html">Purchase Ads</a></li>
+                     
+                </ul>
+            </li>
+            
+        </ul>
+            </div>
+        </div>
+
+        <div id="content">
+            <img width="100%" src="images/carnegie.png" />
+<h4 style="text-align: center;">Dedicated to developing string musicians of all ages and abilities, through the performance of chamber music and chamber orchestra music, assisted and coached by professional musicians.
+<li><a href="./pages/search">search the site</a></li>
+</h4>
+        </div>
+    </body>
+</html>
