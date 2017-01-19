@@ -21,8 +21,8 @@ div#header {
 
 div#logo a {
     display: block;
- <!--   text-align: center;
-    float: center;  -->
+<!--    text-align: center;  -->
+    float: center;
     font-size: 18px;
     text-decoration: none
 }
