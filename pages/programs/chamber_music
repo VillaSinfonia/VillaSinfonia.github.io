@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <title>Villa Sinfonia Foundation- Group Classes</title>
+        <link rel="stylesheet" type="text/css" href="../../css/default.css" />
+    </head>
+    <body>
+        <div id="header">
+            <div id="logo">
+                <a href="../../index.html"><img height="150px" src="../../images/logo.svg" /></a>
+            </div>
+              <div style="float:right;position:relative;top:-45px;left:-25px">  
+              <a href="../gallery/search.html">Search</a>
+            </div> 
+            <div id="navigation">
+        <ul id="menu">
+            
+            <li><a href="../../pages/about_us/about_us.html">About Us</a>
+                <ul class="submenu">
+                    <li><a href="../../pages/about_us/teacher_biographies.html">Teacher Biographies</a></li>
+                    
+                    <li><a href="../../pages/about_us/associated_artists.html">Associated Artists</a></li>
+                    
+                    <li><a href="../../pages/about_us/board_of_trustees.html">Board Of Trustees</a></li>
+                    
+                    <li><a href="../../pages/about_us/history.html">History</a></li>
+                    
+                    <li><a href="../../pages/about_us/villa_in_the_news.html">Villa In The News</a></li>
+                     
+                </ul>
+            </li>
+            
+            <li><a href="../../pages/events/events.html">Events</a>
+                <ul class="submenu"> 
+                </ul>
+            </li>
+            
+            <li class="activeSection"><a href="../../pages/programs/programs.html">Programs</a>
+                <ul class="submenu">
+                    <li><a href="../../pages/programs/private_lessons.html">Private Lessons</a></li>
+                    
+                    <li><a href="../../pages/programs/orchestra.html">Orchestra</a></li>
+                    
+                    <li><a href="../../pages/programs/group_classes.html">Group Classes</a></li>
+                    
+                    <li><a href="../../pages/programs/teacher_training.html">Teacher Training</a></li>
+                    
+                    <li><a href="../../pages/programs/concerts.html">Concerts</a></li>
+                    
+                    <li><a href="../../pages/programs/zephyr_camp.html">Zephyr Camp</a></li>
+                    
+                    <li><a href="../../pages/programs/tours.html">Tours</a></li>
+                    
+                    <li><a href="../../pages/programs/community_outreach.html">Community Outreach</a></li>
+                     
+                </ul>
+            </li>
+            
+            <li><a href="../../pages/calendar/calendar.html">Calendar</a>
+                <ul class="submenu"> 
+                </ul>
+            </li>
+            
+            <li><a href="../../pages/gallery/gallery.html">Gallery</a>
+                <ul class="submenu">
+                    <li><a href="../../pages/gallery/carnegie_tour_2015.html">Carnegie Tour 2015</a></li>
+                    
+                    <li><a href="../../pages/gallery/france_tour_2014.html">France Tour 2014</a></li>
+                    
+                    <li><a href="../../pages/gallery/zephyr_camp.html">Zephyr Camp</a></li>
+                    
+                    <li><a href="../../pages/gallery/union_square_concert.html">Union Square Concert</a></li>
+                    
+                    <li><a href="../../pages/gallery/national_anthem.html">National Anthem</a></li>
+                    
+                    <li><a href="../../pages/gallery/holiday_concert.html">Holiday Concert</a></li>
+                    
+                    <li><a href="../../pages/gallery/senior_solos.html">Senior Solos</a></li>
+                    
+                    <li><a href="../../pages/gallery/family_concert.html">Family Concert</a></li>
+                     
+                </ul>
+            </li>
+            
+            <li><a href="../../pages/support_us/support_us.html">Support Us</a>
+                <ul class="submenu">
+                    <li><a href="../../pages/support_us/online.html">Online</a></li>
+                    
+                    <li><a href="../../pages/support_us/fundraising_events.html">Fundraising Events</a></li>
+                    
+                    <li><a href="../../pages/support_us/purchase_ads.html">Purchase Ads</a></li>
+                     
+                </ul>
+            </li>
+            
+        </ul>
+            </div>
+        </div>
+
+        <div id="content">
+            <h1 id="group-classes">Group Classes</h1>
+<h2 id="book-1">Book 1</h2>
+<div>
+<img style="float: right; margin-right: 20px; margin-left: 10px; margin-top: 35px; " width="450px" src="../../images/lesson.jpg" />
+<p style="line-height: 1.5em;">
+Those who have completed the Twinkle Variations are invited to join the Book I Group where they work on repertoire from Suzuki Book 1 and prepare for the Holiday and Spring Concerts as well as special pieces for the Small Group Concert and Union Square performances. These group classes are 1 hour long and entail 30 minutes of group repertoire adding games and exercises to enhance the study of the pieces they are working on. Students also work on music theory through games and they also get a chance to perform for one another. The class meets every Friday from 4:30 - 5:30. The teacher is Lynn Oakley.
+<p>
+</div>
+<h2 id="book-2">Book 2</h2>
+<p>The Book 2 group students work on repertoire from Suzuki Book 2 and are introduced to music reading and theory in preparation for joining the Preparatory Orchestra class. The ages for this class range from 6 - 11 approximately. Classes meet every Friday from 5:35-6:35. The teacher is Lynn Oakley.</p>
+<h2 id="preparatory-orchestra">Preparatory Orchestra</h2>
+<p>The Thursday Preparatory Orchestra class works on repertoire from Suzuki Books 3 and 4 and reads duets, trios and violin quartets and prepares at least one piece to play along with the Villa Sinfonia in a concert. Students also work on ear-training and sight-singing. Classes meet every Thursday at 5:00. The teacher is Lynn Oakley.</p>
+<h2 id="cello">Cello</h2>
+<p>Carol Rice teaches the cello group class for young cello students. This class reinforces what the students have been learning in their private lessons and prepares them for Villa Sinfonia foundation concerts. For more information contact Carol Rice at carolrice1@earthlink.net.</p>
+        </div>
+    </body>
+</html>
