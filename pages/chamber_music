@@ -1,54 +1,60 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-    <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-        <title>Villa Sinfonia Foundation- Teacher Training</title>
-        <link rel="stylesheet" type="text/css" href="../../css/default.css" />
-    </head>
-    <body>
-        <div id="header">
-            <div id="logo">
-                <a href="../../index.html"><img height="150px" src="../../images/logo.svg" /></a>
-            </div>
-              <div style="float:right;position:relative;top:-45px;left:-25px">  
-              <a href="../gallery/search.html">Search</a>
-            </div> 
-            <div id="navigation">
-        <ul id="menu">
-            
-            <li><a href="../../pages/about_us/about_us.html">About Us</a>
-                <ul class="submenu">
-                    <li><a href="../../pages/about_us/teacher_biographies.html">Teacher Biographies</a></li>
+                    <li><a href="../../pages/gallery/holiday_concert.html">Holiday Concert</a></li>
                     
-                    <li><a href="../../pages/about_us/associated_artists.html">Associated Artists</a></li>
-                    
-                    <li><a href="../../pages/about_us/board_of_trustees.html">Board Of Trustees</a></li>
-                    
-                    <li><a href="../../pages/about_us/history.html">History</a></li>
-                    
-                    <li><a href="../../pages/about_us/villa_in_the_news.html">Villa In The News</a></li>
+                    <li><a href="../../pages/gallery/senior_solos.html">Senior Solos</a></li>
+                 
+                    <li><a href="../../pages/gallery/family_concert.html">Family Concert</a></li>
                      
                 </ul>
             </li>
             
-            <li><a href="../../pages/events/events.html">Events</a>
-                <ul class="submenu"> 
+            <li><a href="../../pages/support_us/support_us.html">Support Us</a>
+                <ul class="submenu">
+                    <li><a href="../../pages/support_us/online.html">Online</a></li>
+                    
+                    <li><a href="../../pages/support_us/fundraising_events.html">Fundraising Events</a></li>
+                    
+                    <li><a href="../../pages/support_us/purchase_ads.html">Purchase Ads</a></li>
+                     
                 </ul>
             </li>
             
-            <li class="activeSection"><a href="../../pages/programs/programs.html">Programs</a>
-                <ul class="submenu">
-                    <li><a href="../../pages/programs/private_lessons.html">Private Lessons</a></li>
-                    
-                    <li><a href="../../pages/programs/orchestra.html">Orchestra</a></li>
-                    
-                    <li><a href="../../pages/programs/group_classes.html">Group Classes</a></li>
-                    
-                    <li><a href="../../pages/programs/teacher_training.html">Teacher Training</a></li>
-                    
-                    <li><a href="../../pages/programs/concerts.html">Concerts</a></li>
-                    
-                    <li><a href="../../pages/programs/zephyr_camp.html">Zephyr Camp</a></li>
-                    
-                    <li><a href="../../pages/programs/tours.html">Tours</a></li>
+        </ul>
+            </div>
+        </div>
+
+        <div id="content">
+            <div>
+<img style="float: left; margin-right: 20px; margin-left: 20px;" width="400px" src="../../images/selbyabbey.png" />
+<p style="line-height: 1.5em;">
+The Villa Sinfonia Foundation had its beginnings in 1975 when Lynn and Roy Oakley started the Oakley Violin Studio, a private violin studio. Since that time, the private studio has expanded to include other private violin, viola and cello studios in a 501 (c)3 non-profit organization called the Villa Sinfonia Foundation, founded in 1994.
+<p>
+</div>
+<h2 id="awards-and-achievements">Awards and Achievements</h2>
+<ol style="list-style-type: decimal">
+<li>Gold Award winners at the Pacific Basin Music Festival, Hawaii, 1994.</li>
+<li>Governor’s Award from the San Francisco Chapter of the Recording Academy’s Grammy Association, 2001.</li>
+<li>Certificate of Honor from the Board of Supervisors for the City and County of San Francisco for 25 years of outstanding service to the community, 2001.</li>
+<li>Certificate of Special Congressional Recognition from Nancy Pelosi, 2008</li>
+<li>Certificate of Appreciation from the San Francisco Police Department in gratitude for “your incredible rendition of the National Anthem at the 10th Annual law Enforcement Appreciation Night at AT &amp; T Park, July 23, 2013”</li>
+</ol>
+<h2 id="performances-and-tours">Performances and Tours</h2>
+<ol style="list-style-type: decimal">
+<li>Annual concerts: Family Ensemble Concert, Holiday Concert, Winter Concert, April Chamber Orchestra concert, Union Square concert</li>
+<li>Other Bay Area performances include: Jack London Square, Crocker Plaza, Stonestown, Sheraton Palace Hotel, The World Trade Club, San Francisco Marriott Hotel, International Music Festival at Herbst Theatre, 1997</li>
+<li>Community outreach: The Shriners Hospital, the Veteran’s Administration Hospital, UC Medical Center, Kaiser Permanente Hospital, Cancer Society</li>
+<li>Featured in a Paramount Studios made-for-TV movie starring Elizabeth Montgomery</li>
+<li>1994 Pacific Basin Music Festival, Honolulu, Hawaii</li>
+<li>1996 Germany and Austria tour</li>
+<li>1999 British Isles tour</li>
+<li>2002 Carnegie Hall Performance, New York</li>
+<li>2004 Davies Symphony Hall, San Francisco</li>
+<li>2005 Prague and Italy tour</li>
+<li>2008 Scotland and England tour</li>
+<li>2011 Washington, D.C. Tour</li>
+<li>2014 France Tour</li>
+<li>2015 Carnegie Hall Performance, New York</li>
+<li>2017 Tour to Vienna and Budapest & Performance at Esterhazy Palace</li>
+</ol>
+        </div>
+    </body>
+</html>
