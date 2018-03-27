@@ -91,10 +91,6 @@ ul.submenu li:hover {
     border-left: solid 8px #7F170E
 }
 
-ul#menu > li:hover > a {
-    text-decoration: underline
-}
-
 ul#menu > li:hover ul.submenu {
     visibility: visible;
     opacity: 1
